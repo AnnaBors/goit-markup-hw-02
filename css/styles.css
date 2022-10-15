@@ -1,0 +1,34 @@
+/* колір заголовків #212121; */
+/* колір абзацу #757575; #2196F3;*/
+
+/*забрати крапки*/
+.list {
+    list-style: none;
+}
+
+
+
+.head {
+    background: #FFFFFF;;
+}
+/*logo*/
+.part-logo {
+    color: #2196F3;;
+}
+.part-logo-2 {
+    color: #000;
+}
+/*site-nav*/
+.site-nav a {
+    color: #212121;
+}
+.hero {
+    background: #2F303A;
+
+}
+.workers {
+    background: #F5F4FA;;
+}
+.footer {
+    background: #2F303A;;
+}
